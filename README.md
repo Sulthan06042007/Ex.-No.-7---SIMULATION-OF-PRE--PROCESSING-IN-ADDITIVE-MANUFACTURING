@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2023-12-23 190746](https://github.com/Sulthan06042007/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144980103/988f768b-a095-4823-9fb2-16a2ecedb429)
 
-### Name:
-### Register Number:
+### Name:Mohamed Sulthan A
+### Register Number:23004839
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
